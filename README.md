@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**AM-77/AM-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <a href="https://amine.js.org">me</a> .
+    <a href="https://am77-blog.netlify.app/">blog</a> .
+    <a href="https://amine.js.org/work.html">projects</a> .
+    <a href="https://www.linkedin.com/in/mohamed-amine-griche">linkedin</a> .
+    <a href="https://stackoverflow.com/users/10564525">stackoverflow</a> .
+    <a href="https://codepen.io/am-77">codepen</a> .
+    <a href="https://dev.to/am77">dev.to</a>
+  </samp>
+</p>
